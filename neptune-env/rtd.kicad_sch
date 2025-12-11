@@ -3391,7 +3391,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:yageo_m1020"
+		(property "Footprint" "neptune-env-footprints:yageo_m1020"
 			(at 92.71 100.33 0)
 			(effects
 				(font
@@ -3460,7 +3460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:MAX31865"
+		(property "Footprint" "neptune-env-footprints:MAX31865"
 			(at 233.68 111.76 0)
 			(effects
 				(font
@@ -3927,7 +3927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:yageo_m1020"
+		(property "Footprint" "neptune-env-footprints:yageo_m1020"
 			(at 265.43 100.33 0)
 			(effects
 				(font
@@ -3996,7 +3996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:MAX31865"
+		(property "Footprint" "neptune-env-footprints:MAX31865"
 			(at 60.96 111.76 0)
 			(effects
 				(font
@@ -4991,7 +4991,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:MAX31865"
+		(property "Footprint" "neptune-env-footprints:MAX31865"
 			(at 147.32 111.76 0)
 			(effects
 				(font
@@ -5187,7 +5187,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:yageo_m1020"
+		(property "Footprint" "neptune-env-footprints:yageo_m1020"
 			(at 179.07 100.33 0)
 			(effects
 				(font

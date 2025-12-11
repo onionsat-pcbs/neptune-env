@@ -4764,7 +4764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:HDR-SMD_8P-P2.00-H-F-W9.2"
+		(property "Footprint" "neptune-env-footprints:HDR-SMD_8P-P2.00-H-F-W9.2"
 			(at 143.51 48.26 0)
 			(effects
 				(font
@@ -6055,7 +6055,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:STM32L432KCUx"
+		(property "Footprint" "neptune-env-footprints:STM32L432KCUx"
 			(at 57.15 90.17 0)
 			(effects
 				(font
@@ -7091,7 +7091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:KEY-SMD_L4.0-W3.0-LS4.9-1"
+		(property "Footprint" "neptune-env-footprints:KEY-SMD_L4.0-W3.0-LS4.9-1"
 			(at 43.18 26.67 0)
 			(effects
 				(font
@@ -7226,7 +7226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:gaia_connector"
+		(property "Footprint" "neptune-env-footprints:gaia_connector"
 			(at 237.49 80.01 0)
 			(effects
 				(font
@@ -7415,7 +7415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:ap2112"
+		(property "Footprint" "neptune-env-footprints:ap2112"
 			(at 157.48 74.295 0)
 			(effects
 				(font
@@ -7623,7 +7623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "neptune-imu-footprints:gaia_connector"
+		(property "Footprint" "neptune-env-footprints:gaia_connector"
 			(at 237.49 44.45 0)
 			(effects
 				(font
@@ -7851,7 +7851,7 @@
 			)
 		)
 		(instances
-			(project "neptune-imu"
+			(project "neptune-env"
 				(path "/63071433-ee88-4c4a-9cea-cf45be729e9d"
 					(page "3")
 				)
@@ -7953,7 +7953,7 @@
 			)
 		)
 		(instances
-			(project "neptune-imu"
+			(project "neptune-env"
 				(path "/63071433-ee88-4c4a-9cea-cf45be729e9d"
 					(page "2")
 				)
