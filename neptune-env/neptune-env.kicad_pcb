@@ -13941,7 +13941,7 @@
 			)
 		)
 	)
-	(gr_text "3v3"
+	(gr_text "3V3"
 		(at 119.046938 40.33 90)
 		(layer "F.SilkS")
 		(uuid "6c56e003-f1ae-435f-89af-4dccb5af0186")
@@ -13953,7 +13953,7 @@
 			)
 		)
 	)
-	(gr_text "Vout"
+	(gr_text "VIN"
 		(at 119.046938 47.430001 90)
 		(layer "F.SilkS")
 		(uuid "9915ca34-0517-4f75-8f6f-1f78d850da95")
@@ -13965,26 +13965,26 @@
 			)
 		)
 	)
-	(gr_text "Reset"
+	(gr_text "RST"
 		(at 82.2 48.641 270)
 		(layer "F.SilkS")
 		(uuid "ee6fe796-9b53-4427-9eb6-f0a47206cc07")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.1)
+				(size 0.6 0.6)
+				(thickness 0.12)
 				(bold yes)
 			)
 		)
 	)
-	(gr_text "Boot0"
+	(gr_text "B0"
 		(at 82.2 46.086 270)
 		(layer "F.SilkS")
 		(uuid "fbe43220-27bb-4d65-9532-5f6732d204f4")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.1)
+				(size 0.6 0.6)
+				(thickness 0.12)
 				(bold yes)
 			)
 		)
@@ -14001,8 +14001,8 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Reset"
-		(at 91.660938 37.037 -180)
+	(gr_text "RESET"
+		(at 91.660938 37.037 180)
 		(layer "B.SilkS")
 		(uuid "7fbd8b93-b8d0-408e-95a1-735ffe5e6ae2")
 		(effects
