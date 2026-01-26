@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.6*%
-%TF.CreationDate,2025-12-21T10:04:59+01:00*%
+%TF.CreationDate,2026-01-26T20:59:56+01:00*%
 %TF.ProjectId,neptune-env,6e657074-756e-4652-9d65-6e762e6b6963,1.0*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L6,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.6) date 2025-12-21 10:04:59*
+G04 Created by KiCad (PCBNEW 9.0.6) date 2026-01-26 20:59:56*
 %MOMM*%
 %LPD*%
 G01*
@@ -134,16 +134,15 @@ X85252938Y-54084000D03*
 %TO.N,unconnected-(J2-Pin_5-Pad5)*%
 X81082938Y-56084000D03*
 %TO.P,J2,6,Pin_6*%
-%TO.N,unconnected-(J2-Pin_6-Pad6)*%
+%TO.N,GND*%
 X85252938Y-56084000D03*
 %TO.P,J2,7,Pin_7*%
-%TO.N,GND*%
+%TO.N,unconnected-(J2-Pin_7-Pad7)*%
 X81082938Y-58084000D03*
 %TO.P,J2,8,Pin_8*%
-%TO.N,unconnected-(J2-Pin_8-Pad8)*%
+%TO.N,GND*%
 X85252938Y-58084000D03*
 %TO.P,J2,9,Pin_9*%
-%TO.N,GND*%
 X81082938Y-60084000D03*
 %TO.P,J2,10,Pin_10*%
 X85252938Y-60084000D03*
